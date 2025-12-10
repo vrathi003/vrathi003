@@ -64,7 +64,9 @@ LLM-powered chatbot for appointment booking and FAQs.
 
 🔍 Exploring opportunities with **Product Companies in India** 
 and **high-growth startups** (Flipkart, Swiggy, PhonePe)  
-📍 Open to: Bangalore, Hyderabad, Gurgaon, Noida 
+
+📍 Open to: Bangalore, Hyderabad, Gurgaon, Noida
+
 💼 Roles: Staff DS, Senior MLE, Lead DS, ML Solutions Architect
 
 ---
