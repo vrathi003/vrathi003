@@ -62,7 +62,7 @@ LLM-powered chatbot for appointment booking and FAQs.
 
 ## 🎯 Currently
 
-🔍 Exploring opportunities with **Product Companies in India** 
+🔍 Exploring opportunities with **Product Companies in India** (Walmart, Atlassian, Oracle, Microsoft, Google, Amazon)
 and **high-growth startups** (Flipkart, Swiggy, PhonePe)  
 
 📍 Open to: Bangalore, Hyderabad, Gurgaon, Noida
