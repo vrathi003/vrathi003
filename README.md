@@ -1,6 +1,6 @@
 # Hi, I'm Vaibhav Rathi 👋
 
-Applied Data Scientist & Senior ML Engineer specializing in Production LLM Systems | 8+ years | Based in India
+Senior Data Scientist specializing in Production ML & LLM Systems | 8+ years | Based in India
 
 ## 🚀 What I'm Working On
 
